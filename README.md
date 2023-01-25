@@ -44,18 +44,6 @@ DOI = {10.3390/s23031262}
 ```
 
 ```
-@article{boccignone2020gaze,
-  title={On gaze deployment to audio-visual cues of social interactions},
-  author={Boccignone, Giuseppe and Cuculo, Vittorio and D’Amelio, Alessandro and Grossi, Giuliano and Lanzarotti, Raffaella},
-  journal={IEEE Access},
-  volume={8},
-  pages={161630--161654},
-  year={2020},
-  publisher={IEEE}
-}
-```
-
-```
 @article{d2021gazing,
   title={Gazing at Social Interactions Between Foraging and Decision Theory},
   author={D'Amelio, Alessandro and Boccignone, Giuseppe},
@@ -64,5 +52,17 @@ DOI = {10.3390/s23031262}
   pages={31},
   year={2021},
   publisher={Frontiers}
+}
+```
+
+```
+@article{boccignone2020gaze,
+  title={On gaze deployment to audio-visual cues of social interactions},
+  author={Boccignone, Giuseppe and Cuculo, Vittorio and D’Amelio, Alessandro and Grossi, Giuliano and Lanzarotti, Raffaella},
+  journal={IEEE Access},
+  volume={8},
+  pages={161630--161654},
+  year={2020},
+  publisher={IEEE}
 }
 ```
