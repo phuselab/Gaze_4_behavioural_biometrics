@@ -21,7 +21,7 @@ Extract Ornstein-Uhlenbeck features from [FIFA-DB dataset](https://www.morancerf
 
 
 ### Train and test
-Module `event_kfold.py` exploit SVMs for classification on the features extracted as an Ornstein-Uhlenbeck process via a Nested cross-validation procedure.
+Module `event_kfold.py` exploits SVMs for classification on the features extracted as an Ornstein-Uhlenbeck process via a Nested cross-validation procedure.
 
 
 ## Reference
@@ -29,8 +29,18 @@ Module `event_kfold.py` exploit SVMs for classification on the features extracte
 If you use this code, please cite the paper:
 
 ```
-@article{SENSORS}
-```
+@article{damelio2023using,
+AUTHOR = {D’Amelio, Alessandro and Patania, Sabrina and Bursic, Sathya and Cuculo, Vittorio and Boccignone, Giuseppe},
+TITLE = {Using Gaze for Behavioural Biometrics},
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {3},
+ARTICLE-NUMBER = {1262},
+URL = {https://www.mdpi.com/1424-8220/23/3/1262},
+ISSN = {1424-8220},
+DOI = {10.3390/s23031262}
+}
 
 ```
 @article{boccignone2020gaze,
