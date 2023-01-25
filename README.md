@@ -41,6 +41,7 @@ URL = {https://www.mdpi.com/1424-8220/23/3/1262},
 ISSN = {1424-8220},
 DOI = {10.3390/s23031262}
 }
+```
 
 ```
 @article{boccignone2020gaze,
