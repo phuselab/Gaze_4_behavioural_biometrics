@@ -1,6 +1,6 @@
 # Using gaze for behavioural biometrics
 
-Identification system based on eye movements modeled as an Ornstein-Uhlenbeck process.
+Identification system based on eye movements modeled as an Ornstein-Uhlenbeck process ([Paper](https://www.mdpi.com/1424-8220/23/3/1262)).
 
 ## Installation
 
